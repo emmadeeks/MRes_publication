@@ -1,0 +1,18 @@
+*~
+*.tmp
+*.bbl
+*.blg
+*.pdf
+*.aux
+*.log
+__pycache__
+.DS_Store
+.Rapp.history
+.Rhistory
+*.rda
+*.sh.*
+data/shape_files
+. -size +50M
+data/acoustic_no_elas_Sept.csv
+data/acoustic_BPV_dataset.csv
+data/shape_files
